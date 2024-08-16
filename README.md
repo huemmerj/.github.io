@@ -1,7 +1,7 @@
 ![Jens's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huemmerj&layout=compact&theme=dark)
-# My Current Projects
+# My current Projects
 
-Here are some of my Projects i am Currently working on.
+Here are some of my Projects i am currently working on.
 ## 1. [Howareman](https://github.com/huemmerj/howareman)
 
 **Description:** Howareman is an open-source app for managing inventory, currently used by my brother, who runs a heating installation business. It allows users to efficiently record, store, and manage all types of items. Further details and Images are provided in the Repository README.md.
