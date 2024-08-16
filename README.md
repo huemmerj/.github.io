@@ -6,14 +6,14 @@ Here are some of my Projects i am Currently working on.
 ## 1. [Howareman](https://github.com/huemmerj/howareman)
 
 **Description:** Howareman is an open-source app for managing inventory, currently used by my brother, who runs a heating installation business. It allows users to efficiently record, store, and manage all types of items. Further details and Images are provided in the Repository README.md.
+
 **Hauptmerkmale:**
 - Barcode Scanning for easy Article Searching
 - Fast Creation of Inventory lists
 
-## 2. [Projektname 2](https://github.com/username/projektname2)
+## 2. [Callisplanics](https://github.com/huemmerj/Callisplanics)
 
-**Beschreibung:** Dieses Projekt beschäftigt sich mit [Thema oder Problem]. Es bietet [Hauptfunktionen oder Vorteile], die es zu einer wertvollen Ressource machen.
-
+**Beschreibung:** Currently in development, this app will help users create and manage training plans and exercises. It will also track progress and improvements over time. Mockups are ready, and i am working on building out the features.
 **Hauptmerkmale:**
 - Funktion 1
 - Funktion 2
