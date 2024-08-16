@@ -18,8 +18,17 @@ Here are some of my Projects i am Currently working on.
 
 ## 3. [20Ab Recorder](https://github.com/huemmerj/20AbRecorder)
 
-**Description:** 20Ab" is a simple app designed to replace pen and paper for the card game 20Ab. It offers a digital solution for tracking scores and game details in a straightforward and easy-to-use interface. 
-
+**Description:** 20Ab is a simple app designed to replace pen and paper for the card game 20Ab. It offers a digital solution for tracking scores and game details in a straightforward and easy-to-use interface. 
 
 **Demo**
 https://20abrecorder.netlify.app/
+
+## 4. [TourneyShare](https://github.com/huemmerj/TournyShare)
+**Description:** Tournyshare is an upcoming app designed to organize and manage small tournaments with friends. It will allow users to create and join tournaments, form teams, and view match schedules. Currently, only mockups are available, but the app aims to streamline tournament planning and participation.
+
+**Main Features:**
+- Tournament Creation
+- Team Management
+- Match Schedulings
+
+
