@@ -1,5 +1,3 @@
-![Jens's github stats](https://github-readme-stats.vercel.app/api?username=huemmerj&theme=merko&layout=compact)
-
 # My Current Projects
 
 Here are some of my Projects i am Currently working on.
@@ -20,13 +18,8 @@ Here are some of my Projects i am Currently working on.
 
 ## 3. [20Ab Recorder](https://github.com/huemmerj/20AbRecorder)
 
-**Description:** 20Ab" is a simple app designed to replace pen and paper for the card game 20Ab. It offers a digital solution for tracking scores and game details in a straightforward and easy-to-use interface.
+**Description:** 20Ab" is a simple app designed to replace pen and paper for the card game 20Ab. It offers a digital solution for tracking scores and game details in a straightforward and easy-to-use interface. 
 
-
-
-**Main Features:**
-- Funktion 1
-- Funktion 2
-- Funktion 3
 
 **Demo**
+https://20abrecorder.netlify.app/
