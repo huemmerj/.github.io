@@ -15,9 +15,8 @@ Here are some of my Projects i am Currently working on.
 
 **Beschreibung:** Currently in development, this app will help users create and manage training plans and exercises. It will also track progress and improvements over time. Mockups are ready, and i am working on building out the features.
 **Hauptmerkmale:**
-- Funktion 1
-- Funktion 2
-- Funktion 3
+- Exercise Creation
+- Trainingplan creation
 
 ## 3. [Projektname 3](https://github.com/username/projektname3)
 
