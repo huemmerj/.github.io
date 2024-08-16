@@ -1,17 +1,14 @@
 ![Jens's github stats](https://github-readme-stats.vercel.app/api?username=huemmerj&theme=merko&layout=compact)
 
-# Meine aktuellen Projekte
+# My Current Projects
 
-Hier findest du eine Auswahl meiner besten Projekte, die ich entwickelt habe. Klick auf die Links, um mehr darüber zu erfahren.
-
+Here are some of my Projects i am Currently working on.
 ## 1. [Howareman](https://github.com/huemmerj/howareman)
 
-**Beschreibung:** Dies ist eine kurze Beschreibung des Projekts. Es könnte eine spezielle Funktion oder eine Lösung für ein häufiges Problem bieten, die dir besonders wichtig ist.
-
+**Description:** Howareman is an open-source app for managing inventory, currently used by my brother, who runs a heating installation business. It allows users to efficiently record, store, and manage all types of items. Further details on additional features will be provided later.
 **Hauptmerkmale:**
-- Funktion 1
-- Funktion 2
-- Funktion 3
+- Barcode Scanning for easy Article Searching
+- Fast Creation of Inventory lists
 
 ## 2. [Projektname 2](https://github.com/username/projektname2)
 
