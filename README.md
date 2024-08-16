@@ -19,7 +19,7 @@ Here are some of my Projects i am Currently working on.
 
 ## 3. [20Ab Recorder](https://github.com/huemmerj/20AbRecorder)
 
-**Description:** 20Ab is a simple app designed to replace pen and paper for the card game 20Ab. It offers a digital solution for tracking scores and game details in a straightforward and easy-to-use interface. 
+**Description:** 20Ab Recorder is a simple app designed to replace pen and paper for the card game 20Ab. It offers a digital solution for tracking scores and game details in a straightforward and easy-to-use interface. 
 
 **Demo**
 https://20abrecorder.netlify.app/
