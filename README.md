@@ -5,7 +5,7 @@
 Here are some of my Projects i am Currently working on.
 ## 1. [Howareman](https://github.com/huemmerj/howareman)
 
-**Description:** Howareman is an open-source app for managing inventory, currently used by my brother, who runs a heating installation business. It allows users to efficiently record, store, and manage all types of items. Further details on additional features will be provided later.
+**Description:** Howareman is an open-source app for managing inventory, currently used by my brother, who runs a heating installation business. It allows users to efficiently record, store, and manage all types of items. Further details and Images are provided in the Repository README.md.
 **Hauptmerkmale:**
 - Barcode Scanning for easy Article Searching
 - Fast Creation of Inventory lists
