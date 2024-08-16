@@ -18,7 +18,7 @@ Here are some of my Projects i am Currently working on.
 - Exercise Creation
 - Trainingplan creation
 
-## 3. [Projektname 3](https://github.com/username/projektname3)
+## 3. [20Ab Recorder](https://github.com/huemmerj/20AbRecorder)
 
 **Beschreibung:** Hier beschreibst du, was dieses Projekt besonders macht, wie es genutzt wird und welche Probleme es löst.
 
