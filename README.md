@@ -26,9 +26,9 @@ Here are some of my projects I am currently working on.
 **Demo:**  
 https://20abrecorder.netlify.app/
 
-## 4. [TourneyShare](https://github.com/huemmerj/TournyShare)
+## 4. [TourneyShare](https://github.com/huemmerj/TourneyShare)
 
-**Description:** TournyShare is an upcoming app designed to organize and manage small tournaments with friends. It will allow users to create and join tournaments, form teams, and view match schedules. Currently, only mockups are available, but the app aims to streamline tournament planning and participation.
+**Description:** TourneyShare is an upcoming app designed to organize and manage small tournaments with friends. It will allow users to create and join tournaments, form teams, and view match schedules. Currently, only mockups are available, but the app aims to streamline tournament planning and participation.
 
 **Main Features:**
 - Tournament creation
